@@ -63,13 +63,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#333333"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#454444!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#4d4c4c"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -98,7 +98,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#4d4c4c",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -380,7 +380,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "La siesta, Mohammedia",
+              "address": "la siesta, Mohammedia",
               "placeId": "ChIJBZpPUdSwpw0R3FMkuCJKcWg",
               "state": "ok",
               "stateDetails": ""
@@ -545,7 +545,7 @@
           "_name": "menu",
           "_anchor": "menu-g",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#4d4c4c",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -614,7 +614,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "La siesta, Mohammedia",
+              "address": "la siesta, Mohammedia",
               "placeId": "ChIJBZpPUdSwpw0R3FMkuCJKcWg",
               "state": "ok",
               "stateDetails": ""
@@ -826,7 +826,7 @@
           "_name": "menu",
           "_anchor": "menu-l",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#4d4c4c",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -896,7 +896,7 @@
             "overlayColor": "#3C3C3C",
             "googleMap": {
               "placeId": "ChIJBZpPUdSwpw0R3FMkuCJKcWg",
-              "address": "La siesta, Mohammedia",
+              "address": "la siesta, Mohammedia",
               "state": "ok",
               "stateDetails": ""
             }
@@ -1140,7 +1140,7 @@
           "_name": "menu",
           "_anchor": "menu-9",
           "_params": {
-            "bgColor": "#efefef",
+            "bgColor": "#4d4c4c",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1210,7 +1210,7 @@
             "overlayColor": "#3C3C3C",
             "googleMap": {
               "placeId": "ChIJBZpPUdSwpw0R3FMkuCJKcWg",
-              "address": "La siesta, Mohammedia",
+              "address": "la siesta, Mohammedia",
               "state": "ok",
               "stateDetails": ""
             }
